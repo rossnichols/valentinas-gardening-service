@@ -6,7 +6,7 @@ Static website for a residential gardening business.
 
 Open the site directly:
 
-- `file:///home/runner/work/valentinas-gardening-service/valentinas-gardening-service/index.html`
+- `file:///path/to/your/project/index.html`
 
 Or run a local server from the repository root:
 
